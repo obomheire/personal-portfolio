@@ -20,7 +20,6 @@ export const AboutImageContainer = styled.div`
   position: relative;
   width: 45%;
   height: 28rem;
-  z-index: 3;
 
   &::after {
     content: "";
@@ -58,7 +57,7 @@ export const AboutImageContainer = styled.div`
 export const AboutImage = styled.img`
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: fill;
   position: relative;
   border-radius: 1px;
 `;
