@@ -15,14 +15,14 @@ export const projectData = [
     image: project1Laptop,
     transitionImage: project1Mobile,
     title: "NETFLIX-CLONE-PROJECT",
-    codeLink: "https://github.com/chiefnaheem/nextfline-clone-project-backend",
+    codeLink: "https://github.com/obomheire?tab=repositories",
   },
   {
     id: 2,
     image: project2Laptop,
     transitionImage: project2Mobile,
     title: "TWEETER CLONE PROJECT",
-    codeLink: "https://github.com/chiefnaheem/twitter_clone_backend",
+    codeLink: "https://github.com/obomheire?tab=repositories",
     liveLink: " https:tweeter-frontend.vercel.app/",
   },
   {
@@ -30,7 +30,7 @@ export const projectData = [
     image: project3Laptop,
     transitionImage: project3Mobile,
     title: "A JOB WEB APP",
-    codeLink: "https://github.com/chiefnaheem/jobwebapp",
+    codeLink: "https://github.com/obomheire?tab=repositories",
     liveLink: "https://jobwebapps.herokuapp.com/api/v1",
   },
   {
@@ -38,6 +38,7 @@ export const projectData = [
     image: project4Laptop,
     transitionImage: project4Mobile,
     title: "WEB3.0 BLOCKCHAIN APP",
-    codeLink: "https://github.com/chiefnaheem/web3-project",
+    codeLink: "https://github.com/obomheire?tab=repositories",
+    liveLink: "https://jobwebapps.herokuapp.com/api/v1",
   },
 ];
