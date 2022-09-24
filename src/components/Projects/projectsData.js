@@ -24,6 +24,7 @@ export const projectData = [
     transitionImage: project2Mobile,
     title: "REACT - MEMORY APP CLIENT",
     codeLink: "https://github.com/obomheire/memories-app-frontend",
+    liveLink: "https://react-memories-appl.netlify.app/",
   },
   {
     id: 3,
