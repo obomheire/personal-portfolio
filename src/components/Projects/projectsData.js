@@ -41,5 +41,19 @@ export const projectData = [
     title: "JAVASCRIPT - ECOMMERCE WEB SITE CLIENT",
     codeLink: "https://github.com/obomheire/ecommerce-web-site-frontend",
     liveLink: "https://ecommerce-web-site-frontend.netlify.app/",
-  }
+  },
+  {
+    id: 5,
+    image: project1Laptop,
+    transitionImage: project1Mobile,
+    title: "NODE - RECIPE MANAGEMENT API",
+    codeLink: "https://github.com/obomheire/recipe-management-api",
+  },
+  {
+    id: 6,
+    image: project1Laptop,
+    transitionImage: project1Mobile,
+    title: "NODE - EAZYPICK SHOPPING CAT API",
+    codeLink: "https://github.com/obomheire/eazyPick-Server",
+  },
 ];
