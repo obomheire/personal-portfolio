@@ -7,6 +7,8 @@ import {
   project3Mobile,
   project4Laptop,
   project4Mobile,
+  project5Laptop,
+  project5Mobile,
 } from "./projectImages";
 
 export const projectData = [
@@ -44,15 +46,15 @@ export const projectData = [
   },
   {
     id: 5,
-    image: project1Laptop,
-    transitionImage: project1Mobile,
+    image: project5Laptop,
+    transitionImage: project5Mobile,
     title: "NODE - RECIPE MANAGEMENT API",
     codeLink: "https://github.com/obomheire/recipe-management-api",
   },
   {
     id: 6,
-    image: project1Laptop,
-    transitionImage: project1Mobile,
+    image: project3Laptop,
+    transitionImage: project3Mobile,
     title: "NODE - EAZYPICK SHOPPING CAT API",
     codeLink: "https://github.com/obomheire/eazyPick-Server",
   },
