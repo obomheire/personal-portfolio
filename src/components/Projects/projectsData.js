@@ -48,14 +48,14 @@ export const projectData = [
     id: 5,
     image: project5Laptop,
     transitionImage: project5Mobile,
-    title: "NODE - RECIPE MANAGEMENT API",
+    title: "NODE.JS - RECIPE MANAGEMENT API",
     codeLink: "https://github.com/obomheire/recipe-management-api",
   },
   {
     id: 6,
     image: project3Laptop,
     transitionImage: project3Mobile,
-    title: "NODE - EAZYPICK SHOPPING CAT API",
+    title: "NODE.JS - EAZYPICK SHOPPING CAT API",
     codeLink: "https://github.com/obomheire/eazyPick-Server",
   },
 ];
