@@ -41,37 +41,5 @@ export const projectData = [
     title: "JAVASCRIPT - ECOMMERCE WEB SITE CLIENT",
     codeLink: "https://github.com/obomheire/ecommerce-web-site-frontend",
     liveLink: "https://ecommerce-web-site-frontend.netlify.app/",
-  },
-  {
-    id: 5,
-    image: project1Laptop,
-    transitionImage: project1Mobile,
-    title: "REACT - MEMORY APP API",
-    codeLink: "https://github.com/obomheire/memories-app-server",
-    liveLink: "https://react-memories-app-server.herokuapp.com/",
-  },
-  {
-    id: 6,
-    image: project2Laptop,
-    transitionImage: project2Mobile,
-    title: "REACT - MEMORY APP CLIENT",
-    codeLink: "https://github.com/obomheire/memories-app-frontend",
-    liveLink: "https://react-memories-appl.netlify.app/",
-  },
-  {
-    id: 7,
-    image: project3Laptop,
-    transitionImage: project3Mobile,
-    title: "A JOB WEB APP",
-    codeLink: "https://github.com/obomheire?tab=repositories",
-    liveLink: "https://jobwebapps.herokuapp.com/api/v1",
-  },
-  {
-    id: 8,
-    image: project4Laptop,
-    transitionImage: project4Mobile,
-    title: "WEB3.0 BLOCKCHAIN APP",
-    codeLink: "https://github.com/obomheire?tab=repositories",
-    liveLink: "https://jobwebapps.herokuapp.com/api/v1",
-  },
+  }
 ];
